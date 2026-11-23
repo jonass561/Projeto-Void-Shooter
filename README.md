@@ -1,6 +1,8 @@
 # Void Shooter
 
-![Tela Principal do Jogo](<img width="850" height="950" alt="image" src="https://github.com/user-attachments/assets/202da96a-4c70-4b7c-8d8f-870771531305" />)
+![Tela Principal do Jogo]
+<img width="850" height="950" alt="Void Shooter" src="https://github.com/user-attachments/assets/4dd2e823-cc51-4fce-9bd0-478dd434ecf7" />
+
 
 
 ## Integrantes do Grupo
