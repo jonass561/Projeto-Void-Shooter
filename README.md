@@ -1,7 +1,7 @@
 # Void Shooter
 
-![Tela Principal do Jogo](<img width="850" height="950" alt="image" src="https://github.com/user-attachments/assets/202da96a-4c70-4b7c-8d8f-870771531305" />
-)
+![Tela Principal do Jogo](<img width="850" height="950" alt="image" src="https://github.com/user-attachments/assets/202da96a-4c70-4b7c-8d8f-870771531305" />)
+
 
 ## Integrantes do Grupo
 * Jonas Gonçalves de Lima
